@@ -2,10 +2,10 @@
 name = "Test1"
 
 # Optional Google font URL
-google_fonts = "family=Fira+Mono&family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Forum&family=Patua+One"
+google_fonts = "family=Fira+Mono&family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Forum&family=Comfortaa"
 
 # Font families
-heading_font = "Patua One"
+heading_font = "Comfortaa"
 body_font = "Fira Sans"
 nav_font = "Forum"
 mono_font = "Fira Mono"
