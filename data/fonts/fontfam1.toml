@@ -3,7 +3,6 @@ name = "Test1"
 
 # Optional Google font URL
 google_fonts = "family=Fira+Mono&family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Forum&family=Patua+One"
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
 heading_font = "Patua One"
