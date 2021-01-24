@@ -5,7 +5,7 @@ name = "Test1"
 google_fonts = "family=Fira+Mono&family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Forum&family=Comfortaa"
 
 # Font families
-heading_font = "Comfortaa"
+heading_font = "Forum"
 body_font = "Fira Sans"
-nav_font = "Forum"
+nav_font = "Comfortaa"
 mono_font = "Fira Mono"
