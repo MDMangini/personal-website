@@ -27,4 +27,4 @@ highlight_name: false
 ---
 I am currently a Ph.D. candidate in the Political Economy and Government program, which is jointly administered by the Harvard Departments of Government and Economics and the Harvard Kennedy School. Before graduate school I worked in economic consulting and I graduated from the University of Pennsylvania in 2014. My research primarily studies the international political economy of trade using formal and quantitative methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Mangini-CV-Jan-2021.pdf" "newtab" >}}CV{{< /staticref >}}.
