@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am currently a Ph.D. candidate in the Political Economy and Government program, which is jointly administered by the Harvard Departments of Government and Economics and the Harvard Kennedy School. Before graduate school I worked in economic consulting and I graduated from the University of Pennsylvania in 2014. My research primarily studies the international political economy of trade using formal and quantitative methods.
