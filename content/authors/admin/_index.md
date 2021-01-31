@@ -2,10 +2,6 @@
 title: Michael-David Mangini
 role: PhD Candidate in Political Economy and Government
 bio: My research focuses on the political economy of international trade.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
