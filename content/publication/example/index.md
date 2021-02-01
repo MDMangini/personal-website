@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Escape from Tariffs: The Political Economies of Protection and Classification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publication_types: ["3"]
 publication: Under Review
 publication_short:
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Firms avoid paying the costs of protection in many ways -- their actions lobbying against tariffs or relocating production are well known. What is the political economy of protection between opportunities to change the tariff schedule? This paper reveals another escape path through administrative lobbying to redefine products. Import-dependent firms seek lower tariffs by requesting that their products be classified into categories of the tariff schedule with lower duties. When firms substitute lobbying resources away from the determination of tariffs and towards the classification of their products, they undermine collective action because the narrow scope of the rulings delivers a private benefit to the firm. Using a unique dataset of over 200,000 classification rulings by US customs officials between 1990 and 2020, I find evidence that firms request classifications in response to rising protection. In particular, demand for classification rulings rose in response to textile quotas and President Donald Trump’s tariffs on Chinese products. Classification requests are also concentrated in tariff headings that contain high variance in tariff rates. The empirical patterns suggest that firms treat lobbying over tariff levels and lobbying over tariff classification as strategic substitutes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
