@@ -1,6 +1,6 @@
 
 ---
-title: "Escape from Tariffs: The Political Economies of Protection and Classification"
+title: "The Economic Coercion Trilemma"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,7 +24,7 @@ publishDate: "2021-01-31T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Progress
+publication: "In Progress"
 publication_short:
 
 abstract: States frequently design unenforceable programs of trade conditionality. For example, the United States's Generalized System of Preferences grants tariff exemptions on thousands of products imported from developing states that respect both labor and intellectual property rights. The US might hesitate to expel states that violate labor rights from eligibility because doing so would also mean forfeiting leverage over respect for intellectual property rights in those places. Many states other than the US choose to tie multiple political issues to a single trade flow, thereby undermining their own ability to credibly enforce the conditionality. I argue that these designs which seem misguided at a glance actually reflect an underlying economic coercion trilemma. Programs of economic coercion can achieve at most two of the following three objectives: 1) a broad coalition of support for conditionality from multiple interest groups whose issues are linked to trade, 2) the maximum trade value possible being tied to each issue, and 3) consistent enforcement across issues. How states choose to make tradeoffs across these three priorities depends on the strategic environment. Consistent enforcement is prioritized when there are intermediate levels of dependence or when it is necessary to tie many issues to trade. Maximum leverage is prioritized when there are extreme levels of dependence and when the issues being tied to trade are similar. This paper also contributes a formal model of the economic coercion trilemma to illustrate optimal tradeoffs across its range.
