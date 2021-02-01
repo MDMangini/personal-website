@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'jmp/escape-from-tariffs/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
