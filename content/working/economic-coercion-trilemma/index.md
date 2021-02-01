@@ -1,4 +1,3 @@
-
 ---
 title: "The Economic Coercion Trilemma"
 
