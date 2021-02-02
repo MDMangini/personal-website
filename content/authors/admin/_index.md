@@ -9,6 +9,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6jQaxrkAAAAJ&hl=en
+  - icon: clock
+    icon_pack: fas
+    link: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5FN2VnQ2VOQU9KfGRlZmF1bHR8YzQ5ZWM2YTM2OTE4MWE0YTc3YWE4NzlkNzJjNmE0ZTU
 organizations:
   - name: Harvard University
     url: https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government
