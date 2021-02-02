@@ -1,5 +1,5 @@
 ---
-title: "The Economic Coercion Trilemma"
+title: "Generalized Sanctions Threats: Evidence from the Generalized System of Preferences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
