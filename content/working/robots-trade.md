@@ -6,7 +6,7 @@ title: "Why Populists Neglect Automation: The Political Economy of Economic Disl
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- [Stephen Chaudoin](http://www.stephenchaudoin.com/)
+- "[Stephen Chaudoin](http://www.stephenchaudoin.com/)"
 
 # Author notes (optional)
 # author_notes:
