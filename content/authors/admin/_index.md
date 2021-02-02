@@ -19,7 +19,7 @@ education:
       year: 2014
     - course: PhD in Political Economy and Government
       institution: Harvard University
-      year: Expected: 2021
+      year: "Expected: 2021"
 email: ""
 superuser: true
 highlight_name: false
