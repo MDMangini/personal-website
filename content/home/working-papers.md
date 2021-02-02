@@ -1,9 +1,11 @@
+---
 widget: portfolio
+
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
-title: Working Papers
+title: "Working Papers"
 
 content:
   # Page type to display. E.g. project.
@@ -35,3 +37,4 @@ design:
   view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+---
