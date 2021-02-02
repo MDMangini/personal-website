@@ -6,8 +6,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:mangini@g.harvard.edu
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=6jQaxrkAAAAJ&hl=en
   - icon: clock
     icon_pack: fas
