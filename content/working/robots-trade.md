@@ -9,7 +9,9 @@ authors:
 - Stephen Chaudoin
 
 # Author notes (optional)
-# author_notes:
+author_notes:
+ - ""
+ - http://www.stephenchaudoin.com/
 
 date: "2021-01-31T00:00:00Z"
 doi: ""
