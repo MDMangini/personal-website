@@ -17,6 +17,9 @@ education:
     - course: BA in International Relations and Economics
       institution: University of Pennsylvania
       year: 2014
+    - course: PhD in Political Economy and Government
+      institution: Harvard University
+      year: Expected: 2021
 email: ""
 superuser: true
 highlight_name: false
