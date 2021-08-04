@@ -5,7 +5,7 @@ name = "Fam2"
 google_fonts = "family=Inconsolata&family=Nobile&family=Oswald:wght@400;700&family=Quattrocento+Sans&family=Raleway:wght@400;700&family=Scope+One&family=Spartan:wght@400;700&family=Voltaire"
 
 # Font families
-heading_font = "Raleway"
+heading_font = "Voltaire"
 body_font = "Quattrocento Sans"
 nav_font = "Voltaire"
 mono_font = "Inconsolata"
