@@ -10,5 +10,5 @@ view: 3
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "video thumbnail 3.png"
 ---
