@@ -9,6 +9,6 @@ view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "lorem ipsum"
   image: "video thumbnail 3.png"
 ---
