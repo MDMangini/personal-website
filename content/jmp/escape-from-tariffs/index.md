@@ -26,7 +26,7 @@ publication_types: ["3"]
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'The Bristol Herald Courier (Bristol, Tennessee), February 25, 1927, page 16'
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 
 # Publication name and optional abbreviated publication name.
