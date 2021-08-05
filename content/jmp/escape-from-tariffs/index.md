@@ -22,6 +22,13 @@ publishDate: "2021-01-31T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'The Bristol Herald Courier (Bristol, Tennessee), February 25, 1927, page 16'
+  focal_point: ""
+  preview_only: false
+
 # Publication name and optional abbreviated publication name.
 publication: Under Review
 publication_short:
