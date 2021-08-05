@@ -30,7 +30,7 @@ image:
    - Undergraduate; S2018, S2020, and S2021
 - Econ2020A: [Microeconomic Theory I](https://www.hks.harvard.edu/courses/microeconomic-theory-i) (with Maciej Kotowski)
    - PhD; F2018
-- Gov1780: International Political Economy (with Jeffry Frieden)
+- Gov1780: [International Political Economy](https://scholar.harvard.edu/jfrieden/classes/gov-1780-international-political-economy) (with Jeffry Frieden)
    - Undergraduate; S2019
 - API101: [Markets and Market Failure](https://www.hks.harvard.edu/courses/resources-incentives-and-choices-i-markets-and-market-failures) (with Pinar Dogan, Janina Matuszeski, David Ellwood, and Marcella Alsan) 
    - Masters; F2018, F2019, F2020 
