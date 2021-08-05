@@ -17,6 +17,13 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-31T00:00:00Z"
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Detail from Stoob (1988). Details available on request.'
+  focal_point: "TopLeft"
+  preview_only: false
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
