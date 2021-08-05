@@ -14,7 +14,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Job Market Papers"
+  name = "Job Market Paper"
   url = "#jmp"
   weight = 30
 
