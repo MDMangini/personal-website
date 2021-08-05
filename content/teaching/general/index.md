@@ -26,7 +26,7 @@ image:
    - Masters; F2017
 - Econ1400: [The Future of Globalization](https://www.hks.harvard.edu/courses/political-economy-globalization) (with Robert Z. Lawrence and Lawrence H. Summers) 
    - Undergraduate; F2017
-- Gov 40: International Conflict and Cooperation (with Dustin Tingley and Stephen Chaudoin) 
+- Gov 40: [International Conflict and Cooperation](http://stephenchaudoin.com/Gov40_2020.pdf) (with Dustin Tingley and Stephen Chaudoin) 
    - Undergraduate; S2018, S2020, and S2021
 - Econ2020A: [Microeconomic Theory I](https://www.hks.harvard.edu/courses/microeconomic-theory-i) (with Maciej Kotowski)
    - PhD; F2018
