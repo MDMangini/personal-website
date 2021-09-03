@@ -5,6 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 
 title: Teaching Experience
+weight: 45
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
