@@ -35,16 +35,16 @@ item:
     title: 'The Political Economy of International Trade'
     url: ''
     certificate_url: ''
-    date_start: 'F2017'
+    date_start: ''
     date_end: ''
-    description: 'Masters Students'
+    description: 'F2017; Masters Students'
   - organization: '(with Lawrence H. Summers and Robert Z. Lawrence)'
     organization_url: ''
     title: 'The Future of Globalization'
     url: >-
       https://www.hks.harvard.edu/courses/political-economy-globalization
     certificate_url: ''
-    date_start: 'F2017'
+    date_start: ''
     date_end: ''
-    description: 'Undergraduate Students'
+    description: 'F2017; Undergraduate Students'
 ---
