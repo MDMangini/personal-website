@@ -32,9 +32,9 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: '(with Robert Z. Lawrence)'
-    organization_url: 'https://www.hks.harvard.edu/courses/political-economy-trade'
+    organization_url: ''
     title: 'The Political Economy of International Trade'
-    url: ''
+    url: 'https://www.hks.harvard.edu/courses/political-economy-trade'
     certificate_url: ''
     date_start: '2017-09-01'
     date_end: '2017-12-01'
@@ -48,4 +48,12 @@ item:
     date_start: '2017-09-01'
     date_end: '2017-12-01'
     description: 'Undergraduate Students'
+  - organization: '(with Dustin Tingley and Stephen Chaudoin)'
+    organization_url: ''
+    title: 'International Conflict and Cooperation'
+    url: 'http://stephenchaudoin.com/Gov40_2020.pdf'
+    certificate_url: ''
+    date_start: '2018-01-01'
+    date_end: '2021-05-01'
+    description: 'Undergraduate Students'    
 ---
