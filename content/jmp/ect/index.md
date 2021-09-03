@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/jmp/economic-coercion-trilemma/'
+url_pdf: '/jmp/economic-coercion-trilemma.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
