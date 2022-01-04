@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/iran-deal/iran-deal-may-2021.pdf'
+url_pdf: 'working/iran-deal/iran-deal-oct-2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
