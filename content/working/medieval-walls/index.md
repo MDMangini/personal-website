@@ -9,7 +9,9 @@ authors:
 - Casey Petroff
 
 # Author notes (optional)
-# author_notes:
+author_notes:
+- ""
+- https://caseypetroff.github.io/
 
 date: "2021-01-31T00:00:00Z"
 doi: ""
