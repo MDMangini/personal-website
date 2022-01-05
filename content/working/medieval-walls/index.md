@@ -1,5 +1,5 @@
 ---
-title: "Conflict Technology as a Catalyst of State Formation: Urban Fortifications in Medieval and Early Modern Europe"
+title: "Conflict Technology as a Catalyst of State Formation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -31,10 +31,10 @@ image:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Progress"
+publication: "Under Review"
 publication_short: ''
 
-abstract: "The rise of the modern European state coincided with the arrival of a new tech- nology, artillery, that rendered previous urban fortifications obsolete. We examine the role that this shift in offensive-defensive technological capabilities played in reshap- ing the political landscape of Europe using detailed data on the shifting locations of national borders and comprehensive data on city-level urban defensive technology, ar- tillery manufacture, and battles. We propose that the gunpowder revolution created a threat of foreign conquest that could only be mitigated at extreme cost. Cities and kingdoms agglomerated into national states with unprecedented political authority in order to better finance the newly necessary expenses of defense and coordinate the inter-city security cooperation which was far more efficient. Using our dataset of ur- ban fortifications we find that after the development of gunpowder technology, new urban fortifications were more likely to be located in areas where borders disappeared, closer to national borders, and were more likely to be the targets of conflict. These findings highlight the changing strategic significance of cities in an era characterized by the formation of modern nation-states."
+abstract: "The rapid introduction of artillery to late medieval Europe initiated a massive security crisis by rendering existing urban fortifications obsolete. Instead of turning to existing networks of alliance and patronage to strengthen collective security, cities surrendered their sovereignty and agglomerated into states. How were nascent states able to consolidate authority over the formerly sovereign polities? We propose that cities had to surrender sovereignty to states because the gunpowder revolution forced them to construct new fortifications that required external financing. States were better positioned to use concentrated political authority to efficiently finance the new fortifications and coordinate inter-city security cooperation. We test the theory using detailed data on city-level urban defensive investment, the locations of artillery manufacturers, and the changing locations of national borders. We find that after the development of gunpowder technology, new defensive investments were more likely to be located in areas where borders disappeared, were built closer to politically relevant national borders, and were further from the sites of raw building materials. These findings are consistent with the theory that states arose in part as a consequence of changes in the technology of warfare."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'working/medieval-walls/mangini-petroff-walls.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -81,4 +81,4 @@ url_video: ''
 # slides: example
 ---
 
-Abstract: The rise of the modern European state coincided with the arrival of a new tech- nology, artillery, that rendered previous urban fortifications obsolete. We examine the role that this shift in offensive-defensive technological capabilities played in reshap- ing the political landscape of Europe using detailed data on the shifting locations of national borders and comprehensive data on city-level urban defensive technology, ar- tillery manufacture, and battles. We propose that the gunpowder revolution created a threat of foreign conquest that could only be mitigated at extreme cost. Cities and kingdoms agglomerated into national states with unprecedented political authority in order to better finance the newly necessary expenses of defense and coordinate the inter-city security cooperation which was far more efficient. Using our dataset of ur- ban fortifications we find that after the development of gunpowder technology, new urban fortifications were more likely to be located in areas where borders disappeared, closer to national borders, and were more likely to be the targets of conflict. These findings highlight the changing strategic significance of cities in an era characterized by the formation of modern nation-states.
+Abstract: The rapid introduction of artillery to late medieval Europe initiated a massive security crisis by rendering existing urban fortifications obsolete. Instead of turning to existing networks of alliance and patronage to strengthen collective security, cities surrendered their sovereignty and agglomerated into states. How were nascent states able to consolidate authority over the formerly sovereign polities? We propose that cities had to surrender sovereignty to states because the gunpowder revolution forced them to construct new fortifications that required external financing. States were better positioned to use concentrated political authority to efficiently finance the new fortifications and coordinate inter-city security cooperation. We test the theory using detailed data on city-level urban defensive investment, the locations of artillery manufacturers, and the changing locations of national borders. We find that after the development of gunpowder technology, new defensive investments were more likely to be located in areas where borders disappeared, were built closer to politically relevant national borders, and were further from the sites of raw building materials. These findings are consistent with the theory that states arose in part as a consequence of changes in the technology of warfare.
