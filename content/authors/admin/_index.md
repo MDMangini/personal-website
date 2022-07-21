@@ -1,6 +1,6 @@
 ---
 title: Michael-David Mangini
-role: PhD Candidate in Political Economy and Government
+role: Postdoctoral Fellow at the Niehaus Center for Globalization and Governance
 bio: My research focuses on the political economy of international trade.
 social:
   - icon: envelope
