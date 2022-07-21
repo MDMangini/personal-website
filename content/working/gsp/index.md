@@ -23,7 +23,7 @@ publishDate: "2021-01-31T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Progress"
+publication: "Under Review"
 publication_short: ''
 
 abstract: "Individual states are threatened with sanctions only after they have chosen to violate international norms. Therefore, empirical analyses of threats to impose sanctions on specific states are subject to a strategic selection effect.  Before any aberrant conduct occurs, the threat of sanctions is understood to be a possible consequence. Are generalized sanctions threats enough to prevent certain policies, even though they do not target specific states? I study this question in the context of the US Generalized System of Preferences using a differences-in-differences estimation strategy. Membership in the GSP is available to developing states conditional on respect labor and intellectual property rights. The policy is general because it includes all developing states. I leverage exogenous variation in the state-specific product scope to isolate the causal effect of changes in the value of program membership on rights protections in eligible states. I find evidence that states really do increase intellectual property rights enforcement when the benefits of GSP membership are higher, but the effects are not present for labor rights."
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'gsp-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
