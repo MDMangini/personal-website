@@ -15,6 +15,8 @@ social:
 organizations:
   - name: Harvard University
     url: https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government
+  - name: Princeton University
+    url: https://niehaus.princeton.edu/
 education:
   courses:
     - course: BA in International Relations and Economics
@@ -22,11 +24,11 @@ education:
       year: 2014
     - course: PhD in Political Economy and Government
       institution: Harvard University
-      year: "Expected: 2022"
+      year: "2022"
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a Ph.D. candidate in the Political Economy and Government program, which is jointly administered by the Harvard Departments of Government and Economics and the Harvard Kennedy School. Before graduate school I worked in economic consulting and I graduated from the University of Pennsylvania in 2014. My research primarily studies the international political economy of trade using formal and quantitative methods.
+I recently graduated from Harvard University with a Ph.D. in Political Economy and Government. Beginning in September 2022 I will be a Postdoctoral Fellow at the Niehaus Center for Globalization and Governance at Princeton University. Before graduate school I worked in economic consulting and I graduated from the University of Pennsylvania in 2014. My research primarily studies the international political economy of trade, but I also have interests in state formation and the politics of structural transformation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Mangini-CV-Jan-2021.pdf" "newtab" >}}CV{{< /staticref >}}.
