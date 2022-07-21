@@ -1,5 +1,5 @@
 ---
-title: "The Economic Coercion Trilemma and the Paradox of Self-Defeating Success"
+title: "The Economic Coercion Trilemma"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
