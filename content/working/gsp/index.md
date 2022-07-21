@@ -1,5 +1,5 @@
 ---
-title: "Generalized Sanctions Threats: Evidence from the Generalized System of Preferences"
+title: "How Effective is Trade Conditionality? Economic Coercion in the Generalized System of Preferences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
