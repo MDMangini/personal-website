@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/working/gsp/'
+url_pdf: 'working/gsp/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +73,7 @@ url_video: ''
 # slides: example
 ---
 
-Abstract: Individual states are threatened with sanctions only after they have chosen to violate international norms. Therefore, empirical analyses of threats to impose sanctions on specific states are subject to a strategic selection effect.  Before any aberrant conduct occurs, the threat of sanctions is understood to be a possible consequence. Are generalized sanctions threats enough to prevent certain policies, even though they do not target specific states? I study this question in the context of the US Generalized System of Preferences using a differences-in-differences estimation strategy. Membership in the GSP is available to developing states conditional on respect labor and intellectual property rights. The policy is general because it includes all developing states. I leverage exogenous variation in the state-specific product scope to isolate the causal effect of changes in the value of program membership on rights protections in eligible states. I find evidence that states really do increase intellectual property rights enforcement when the benefits of GSP membership are higher, but the effects are not present for labor rights.
+Abstract: The Generalized System of Preferences (GSP) exemplifies the ways in which  international economic linkages can become conduits of political influence. The program offers beneficiary developing countries the opportunity to export a wide variety of goods duty free to the United States, but eligibility is conditional on labor and intellectual property rights protections. How effective are programs like the GSP at causing states to change behavior by raising the risk that market access will be revoked? The challenge of detecting economic coercion in programs like the GSP is identifying the program's influence in states where the conditionality is never enforced. The paper applies a new conceptual approach to show that GSP beneficiaries change policy to reduce the risk of being threatened with expulsion from the program. An implication of the findings is that the political consequences of economic linkages could be far more widespread than previously thought.
 
 
 
