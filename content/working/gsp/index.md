@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/gsp/'
+url_pdf: 'working/gsp/gsp-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
