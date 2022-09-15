@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'working/robots-trade/ipes-automation-trade.pdf'
+url_slides: 'working/robots-trade/apsa-automation-trade.pdf'
 url_source: ''
 url_video: ''
 
