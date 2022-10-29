@@ -51,12 +51,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/medieval-walls/walls-draft-2.pdf'
+url_pdf: 'working/medieval-walls/walls-draft_full.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'working/medieval-walls/ipes_2022.pdf'
 url_source: ''
 url_video: ''
 
