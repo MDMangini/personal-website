@@ -26,7 +26,7 @@ publication_types: ["3"]
 publication: "Under Review"
 publication_short: ''
 
-abstract: "Trade conditionality as an instrument of economic coercion depends on the credibility of threats to revoke market access from target states that do not fulfill the conditionality. But it is equally important to credibly promise that sanctions will not be imposed on target states that do fulfill the conditionality. What instruments can states deploy to make credible promises without undermining the credibility of their threats? I show how excessive demonstrations of resolve to impose sanctions can undermine the credibility of assurances that market access will be restored once conditionality is met. The theory proposes that states can overcome these challenges by carefully choosing coalition partners who can supplement the credibility of assurances. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions stymied progress. Partnership between the United States and European states having less commitment to sanctions enhanced the effectiveness of trade conditionality and enabled the successful conclusion of the negotiations."
+abstract: "Economic coercion depends on the credibility of both threats to punish non- compliance and assurances that compliance will not be punished. What instru- ments can states deploy to make the necessary assurances without undermining the credibility of their threats? This article describes how some factors that bolster the credibility of threats can simultaneously undermine the credibility of assurances. It then argues that states can mitigate the challenge by carefully selecting coalition partners with different interests who can hold them accountable. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions initially stymied progress. The United States was ultimately able to increase the believability of its commitments by partnering with European states that were more open to removing sanctions."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/iran-deal/iran-deal-may-2022.pdf'
+url_pdf: 'working/iran-deal/iran-deal-may-2022-cloud.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,4 +73,4 @@ url_video: ''
 # slides: example
 ---
 
-Abstract: Trade conditionality as an instrument of economic coercion depends on the credibility of threats to revoke market access from target states that do not fulfill the conditionality. But it is equally important to credibly promise that sanctions will not be imposed on target states that do fulfill the conditionality. What instruments can states deploy to make credible promises without undermining the credibility of their threats? I show how excessive demonstrations of resolve to impose sanctions can undermine the credibility of assurances that market access will be restored once conditionality is met. The theory proposes that states can overcome these challenges by carefully choosing coalition partners who can supplement the credibility of assurances. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions stymied progress. Partnership between the United States and European states having less commitment to sanctions enhanced the effectiveness of trade conditionality and enabled the successful conclusion of the negotiations.
+Abstract: Economic coercion depends on the credibility of both threats to punish non- compliance and assurances that compliance will not be punished. What instru- ments can states deploy to make the necessary assurances without undermining the credibility of their threats? This article describes how some factors that bolster the credibility of threats can simultaneously undermine the credibility of assurances. It then argues that states can mitigate the challenge by carefully selecting coalition partners with different interests who can hold them accountable. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions initially stymied progress. The United States was ultimately able to increase the believability of its commitments by partnering with European states that were more open to removing sanctions.
