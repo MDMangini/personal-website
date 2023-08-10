@@ -11,16 +11,16 @@ authors:
 # author_notes:
 
 date: "2021-01-31T00:00:00Z"
-doi: ""
+doi: "10.1111/ecpo.12244"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-31T00:00:00Z"
+publishDate: "2022-05-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 # Publication name and optional abbreviated publication name.
-publication: Economics and Politics
+publication: Economics & Politics
 publication_short:
 
 abstract: The literature on the political economy of trade protection has focused on how firms lobby for their preferred tariffs, but opportunities to change the tariff schedule in the United States by legislation are relatively uncommon. How can importers lobbying in their private capacity escape from tariffs without relying on Congress? In the United States, products must be sorted into tariff categories by the customs office before the appropriate duty can be determined. This article documents how firms seek to lower their tariffs by strategically requesting product classifications from customs. Firms hire lawyers to make legal arguments to customs officials promoting an interpretation of the tariff schedule which lowers their costs. Lobbying for favorable classification is most important to the firm when similar categories have very different tariffs. The language of product descriptions is political because legal arguments for a particular classification are more persuasive when the descriptions are worded flexibly. Using a data set of over 200,000 classification rulings between 1990 and 2020, I find evidence that firms request classifications in response to certain quotas and the China tariffs. The findings characterize the tariff schedule as a living document and describe how the distribution of tariffs and the language of product descriptions affect the structure of protection.
@@ -44,9 +44,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Journal Link
+   url: https://onlinelibrary.wiley.com/doi/10.1111/ecpo.12244
 
 url_pdf: 'publications/escape-from-tariffs/escape_from_tariffs.pdf'
 url_code: ''
