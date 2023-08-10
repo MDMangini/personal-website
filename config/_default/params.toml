@@ -97,14 +97,14 @@ address = {street = "", city = "New Haven", region = "CT", postcode = "06511", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.37134098387354", longitude = "-71.12192301114726"}
+coordinates = {latitude = "41.314454788116954", longitude = "-72.92449113151409"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Sign up using this [link](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5FN2VnQ2VOQU9KfGRlZmF1bHR8YzQ5ZWM2YTM2OTE4MWE0YTc3YWE4NzlkNzJjNmE0ZTU)."]
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
