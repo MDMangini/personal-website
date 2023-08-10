@@ -45,8 +45,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Journal Link
-   url: https://onlinelibrary.wiley.com/doi/10.1111/ecpo.12244
+ - name: BibTex Citation
+   url: 'publications/escape-from-tariffs/escape-from-tariffs-cite.pdf'
 
 url_pdf: 'publications/escape-from-tariffs/escape_from_tariffs.pdf'
 url_code: ''
