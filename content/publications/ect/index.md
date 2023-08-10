@@ -10,8 +10,8 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2021-01-31T00:00:00Z"
-doi: ""
+date: "2023-07-28T00:00:00Z"
+doi: "10.1177/00220027231191530"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-31T00:00:00Z"
@@ -20,13 +20,13 @@ publishDate: "2021-01-31T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming at the Journal of Conflict Resolution"
+publication: "Journal of Conflict Resolution"
 publication_short: ''
 
-abstract: "States often use market access as a bargaining chip in international politics. A state that requires simultaneous compliance in multiple issue areas before granting market access maximizes incentives to comply but also makes them brittle -- any targeted states that cannot comply in one issue area have no incentive to comply in any. More generally, programs of economic coercion can achieve at most two of the following three objectives: 1) secure a broad coalition of domestic political support, 2) the association of meaningful trade value with each policy issue, and 3) assurance that enforcing one political issue will not reduce the target's incentives to comply with conditionality on others. Characteristics of the program's domestic constituency, of the issues themselves, and of the international economy are key determinants of how the state prioritizes the three objectives. The trilemma explains the number and types of issues that can be linked to economic value."
+abstract: "Journal of Conflict Resolution (2023)"
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
