@@ -76,7 +76,7 @@ item:
     organization_url: ''
     title: 'API101: Markets and Market Failure'
     url: 'teaching-api101/api101/'
-    certificate_url: 'https://www.hks.harvard.edu/courses/resources-incentives-and-choices-i-markets-and-market-failures'
+    certificate_url: ''
     date_start: '2018-09-01'
     date_end: '2020-12-01'
     description: 'Masters Students'
