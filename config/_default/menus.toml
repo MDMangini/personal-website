@@ -34,7 +34,7 @@
   weight = 50
   
 [[main]]
-  name = "Teaching -- API101"
+  name = "Teaching Videos"
   url = "#teaching-api101"
   weight = 60
 
