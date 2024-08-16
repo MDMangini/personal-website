@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2021-01-31T00:00:00Z"
+date: "2024-08-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publishDate: "2021-01-31T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Conditional Acceptance at the Review of International Organizations"
 publication_short: ''
 
-abstract: "Individual states are threatened with sanctions only after they have chosen to violate international norms. Therefore, empirical analyses of threats to impose sanctions on specific states are subject to a strategic selection effect.  Before any aberrant conduct occurs, the threat of sanctions is understood to be a possible consequence. Are generalized sanctions threats enough to prevent certain policies, even though they do not target specific states? I study this question in the context of the US Generalized System of Preferences using a differences-in-differences estimation strategy. Membership in the GSP is available to developing states conditional on respect labor and intellectual property rights. The policy is general because it includes all developing states. I leverage exogenous variation in the state-specific product scope to isolate the causal effect of changes in the value of program membership on rights protections in eligible states. I find evidence that states really do increase intellectual property rights enforcement when the benefits of GSP membership are higher, but the effects are not present for labor rights."
+abstract: "States often receive threats of economic coercion only after committing some transgression. While attention has been given to strategic selection in the impo- sition of sanctions – the notion that sanctions are imposed only after the threat of sanctions has failed to elicit compliance – selection also occurs at the threat stage. Does the possibility of economic coercion incentivize states to stay in line before they are directly threatened? This article makes two contributions. First, it presents a theory showing how the interaction between different types of threats can alter the strategic context of economic coercion in ways that po- tentially reverse the results of empirical analysis. It explains that states are likely to issue general threats, or threats targeting the behavior of a group of coun- tries, when sanctions effectiveness is unknown or the identity of noncompliers is difficult to predict. Second, using quasi-experimental techniques, this arti- cle demonstrates that states actively manage the risk of losing access to a trade preference program by altering their policies. The article indicates the politi- cal consequences of economic linkages may be more extensive than previously believed."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -73,7 +73,7 @@ url_video: ''
 # slides: example
 ---
 
-Abstract: The Generalized System of Preferences (GSP) exemplifies the ways in which  international economic linkages can become conduits of political influence. The program offers beneficiary developing countries the opportunity to export a wide variety of goods duty free to the United States, but eligibility is conditional on labor and intellectual property rights protections. How effective are programs like the GSP at causing states to change behavior by raising the risk that market access will be revoked? The challenge of detecting economic coercion in programs like the GSP is identifying the program's influence in states where the conditionality is never enforced. The paper applies a new conceptual approach to show that GSP beneficiaries change policy to reduce the risk of being threatened with expulsion from the program. An implication of the findings is that the political consequences of economic linkages could be far more widespread than previously thought.
+Abstract: States often receive threats of economic coercion only after committing some transgression. While attention has been given to strategic selection in the impo- sition of sanctions – the notion that sanctions are imposed only after the threat of sanctions has failed to elicit compliance – selection also occurs at the threat stage. Does the possibility of economic coercion incentivize states to stay in line before they are directly threatened? This article makes two contributions. First, it presents a theory showing how the interaction between different types of threats can alter the strategic context of economic coercion in ways that po- tentially reverse the results of empirical analysis. It explains that states are likely to issue general threats, or threats targeting the behavior of a group of coun- tries, when sanctions effectiveness is unknown or the identity of noncompliers is difficult to predict. Second, using quasi-experimental techniques, this arti- cle demonstrates that states actively manage the risk of losing access to a trade preference program by altering their policies. The article indicates the politi- cal consequences of economic linkages may be more extensive than previously believed.
 
 
 
