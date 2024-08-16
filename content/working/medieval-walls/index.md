@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/medieval-walls/walls-draft_full.pdf'
+url_pdf: 'working/medieval-walls/walls-draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
