@@ -21,16 +21,19 @@ image:
   preview_only: true
   
 ---
-
+- PLSC 124/673: International Conflict
+   - Undergraduate, Masters, and PhD; Yale F2023
+- PLSC 147/681: Coercion in the Globalized Economy
+   - Undergraduate, Masters, and PhD; Yale S2024 and F2024
 - BGP 610: [The Political Economy of International Trade](https://www.hks.harvard.edu/courses/political-economy-trade) (with Robert Z. Lawrence) 
-   - Masters; F2017
+   - Masters; Harvard F2017
 - Econ 1400: [The Future of Globalization](https://www.hks.harvard.edu/courses/political-economy-globalization) (with Robert Z. Lawrence and Lawrence H. Summers) 
-   - Undergraduate; F2017
+   - Undergraduate; Harvard F2017
 - Gov 40: [International Conflict and Cooperation](http://stephenchaudoin.com/Gov40_2020.pdf) (with Dustin Tingley and Stephen Chaudoin) 
-   - Undergraduate; S2018, S2020, and S2021
+   - Undergraduate; Harvard S2018, S2020, and S2021
 - Econ 2020A: [Microeconomic Theory I](https://www.hks.harvard.edu/courses/microeconomic-theory-i) (with Maciej Kotowski)
-   - PhD; F2018
+   - PhD; Harvard F2018
 - Gov 1780: [International Political Economy](https://scholar.harvard.edu/jfrieden/classes/gov-1780-international-political-economy) (with Jeffry Frieden)
-   - Undergraduate; S2019
+   - Undergraduate; Harvard S2019
 - API 101: [Markets and Market Failure](https://www.hks.harvard.edu/courses/resources-incentives-and-choices-i-markets-and-market-failures) (with Pinar Dogan, Janina Matuszeski, David Ellwood, and Marcella Alsan) 
-   - Masters; F2018, F2019, F2020 
+   - Masters; Harvard F2018, F2019, F2020 
