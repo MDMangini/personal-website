@@ -1,5 +1,5 @@
 ---
-title: "The Limits of Resolve in International Politics: Evidence from the Iran Deal Negotiation"
+title: "Coalition Composition and the Politics of Restraint: Commitment Credibility in the Iran Deal Negotiation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,10 +23,10 @@ publishDate: "2021-01-31T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: ""
 publication_short: ''
 
-abstract: "Economic coercion depends on the credibility of both threats to punish non- compliance and assurances that compliance will not be punished. What instru- ments can states deploy to make the necessary assurances without undermining the credibility of their threats? This article describes how some factors that bolster the credibility of threats can simultaneously undermine the credibility of assurances. It then argues that states can mitigate the challenge by carefully selecting coalition partners with different interests who can hold them accountable. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions initially stymied progress. The United States was ultimately able to increase the believability of its commitments by partnering with European states that were more open to removing sanctions."
+abstract: "Economic coercion depends on the credibility of both threats to punish noncompliance and  assurances that compliance will not be punished. What instruments can states deploy to make the necessary assurances without undermining the credibility of their threats? This article describes how some actions that bolster the credibility of threats can simultaneously undermine the credibility of assurances. It then argues that states can mitigate the challenge by carefully selecting coalition partners with different interests who can hold them accountable. The paper applies the theory to the Iran deal negotiation and finds that Congressional resolve to maintain sanctions initially stymied progress. The United States was ultimately able to increase the believability of its commitments by partnering with European states that were more open to removing sanctions."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/iran-deal/iran-deal-june-2023.pdf'
+url_pdf: 'working/iran-deal/iran-deal-summer-2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
