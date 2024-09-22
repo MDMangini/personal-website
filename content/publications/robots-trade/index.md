@@ -23,13 +23,13 @@ publishDate: "2021-01-31T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise and Resubmit at the Journal of Politics"
-publication_short: ''
+publication: "Conditionally Accepted at the Journal of Politics"
+publication_short: '*Journal of Politics*'
 
-abstract: "We develop a general model of a citizen’s demand for policy responses to redistributive shocks like globalization and automation. The model illustrates how a dislike for imports can increase demand for policy responses that ‘backpedal’ against the shock, such as automation regulation and tariffs, relative to demand for ex post transfers. We use survey experimental evidence from two different designs to support the model’s predictions. Treatments empha- sizing an automation shock from domestic-origin technology cause citizens to place greater weight on redistribution relative to regulations (backpedaling against automation). A foreign- origin labor shock, e.g. firms moving production abroad, leads to greater weight on protec- tionism (backpedaling against globalization), which also crowds out demand for redistribution. Most importantly, “making automation foreign” by emphasizing foreign-origin technology re- weights responses towards greater support for regulations and away from redistribution. Our findings explain how support for automation regulations could grow, as politicians increasingly vilify foreign technology."
+abstract: "Journal of Politics (conditional acceptance)"
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,12 +44,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working/robots-trade/robots_trade_2024_03_19.pdf'
+url_pdf: 'publications/robots-trade/robots_trade_2024_03_19.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'working/robots-trade/apsa-automation-trade.pdf'
+url_slides: 'publications/robots-trade/apsa-automation-trade.pdf'
 url_source: ''
 url_video: ''
 
