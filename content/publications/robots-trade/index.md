@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publications/robots-trade/robots_trade_2024_03_19.pdf'
+url_pdf: 'publications/robots-trade/chaudoin-mangini-robots-trade.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
