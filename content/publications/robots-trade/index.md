@@ -1,5 +1,5 @@
 ---
-title: "Why Populists Neglect Automation: The Political Economy of Economic Dislocation"
+title: "Robots, Foreigners, and Foreign Robots: Policy Responses to Automation and Trade"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
