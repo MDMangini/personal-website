@@ -1,6 +1,6 @@
 ---
 title: Michael-David Mangini
-role: Assistant Professor of Political Science and International Relations<br>University of Southern California
+role: Assistant Professor of Political Science and International Relations
 bio: My research focuses on economic coercion and the political economy of international trade.
 social:
   - icon: envelope
@@ -15,6 +15,8 @@ social:
 organizations:
   - name: University of Southern California
     url: https://dornsife.usc.edu/poir/
+  - name: Previous
+    url: 
   - name: Harvard University
     url: https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-political-economy-government
   - name: Princeton University
