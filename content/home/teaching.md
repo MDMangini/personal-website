@@ -31,6 +31,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
+  - organization: 'University of Southern California'
+    organization_url: ''
+    title: 'IR 307: Coercion in the Globalized Economy'
+    url: 'media/international-conflict.pdf'
+    certificate_url: ''
+    date_start: '2026-01-01'
+    date_end: '2026-05-01'
+    description: 'Undergraduate Students'
+  - organization: 'University of Southern California'
+    organization_url: ''
+    title: 'IR 381: Introduction to International Security'
+    url: 'media/international-conflict.pdf'
+    certificate_url: ''
+    date_start: '2025-09-01'
+    date_end: '2025-12-01'
+    description: 'Undergraduate Students'
   - organization: 'Yale University'
     organization_url: ''
     title: 'PLSC 124/673: International Conflict'
